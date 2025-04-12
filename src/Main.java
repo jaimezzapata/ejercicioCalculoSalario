@@ -8,6 +8,7 @@ public class Main {
         double deduccionSalud = 0, deduccionPension = 0, horasExtras = 0;
         double valorHorasExtras = 0, bonificacion = 0, fondoSolidaridadPensional = 0;
         double valorRetencionFuente = 0,auxilioTransporte = 0,salarioMinimo = 0;
+
         /*Un nuevo cambio*/
         System.out.println(documentoEmpleado);
         System.out.print("Ingrese el nombre del empleado: ");
